@@ -10088,8 +10088,8 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="LOGO-SFE" device="NEW"/>
 <part name="U2" library="SparkFun-PowerIC" deviceset="MC34063" device="DIP"/>
 <part name="R11" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="10K"/>
-<part name="R12" library="SparkFun-Resistors" deviceset="RESISTOR" device="KIT" value="3.3K"/>
-<part name="R13" library="SparkFun-Resistors" deviceset="RESISTOR" device="KIT" value="180"/>
+<part name="R12" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="3.3K"/>
+<part name="R13" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="180"/>
 <part name="R16" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="0.27"/>
 <part name="D2" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="PTH" value="MBRA140"/>
 <part name="C17" library="SparkFun-Capacitors" deviceset="CAP" device="KIT" value="1000pF"/>
