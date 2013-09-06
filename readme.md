@@ -15,6 +15,7 @@ Repository Contents
 
 Version History
 ---------------
+* vH04 Second protoboard run.
 * vH03 First protoboard run.
 
 License Information
