@@ -9337,6 +9337,12 @@ Basic 0.1" spaced jumper. Use with breakaway headers.</description>
 <label x="96.52" y="152.4" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
+<net name="N$2" class="0">
+<segment>
+<pinref part="U3" gate="G$1" pin="PB7(XTAL2/TOSC2)"/>
+<wire x1="50.8" y1="50.8" x2="45.72" y2="50.8" width="0.2032" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>

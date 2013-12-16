@@ -1,12 +1,12 @@
-Capacitive Touch Keyboard
-=========================
+Gram Piano
+==========
 
-The Capacitive Touch Keyboard is a soldering kit that allows you to create and play
-all the notes of the C major scale and outputs sound through a PCB Speaker. It can 
-also be adapted to have its inputs trigger notes of other scales, octaves or even
-melodies.
+The Gram Piano is a capacitive touch keyboard and soldering kit that allows you to 
+create and play all the notes of the C major scale and outputs sound through a 
+PCB Speaker. It can also be adapted to have its inputs trigger notes of other 
+scales, octaves or even melodies.
 
-This board was created in Eagle v6.0.2, this firmware was created in Arduino v1.x.
+This board was created in Eagle v6.0.5, this firmware was created in Arduino v1.x.
 
 Repository Contents
 -------------------
@@ -17,6 +17,7 @@ Repository Contents
 
 Version History
 ---------------
+* vH10 Initial Redboards.
 * vH05 Third protoboard run.
 * vH04 Second protoboard run.
 * vH03 First protoboard run.
