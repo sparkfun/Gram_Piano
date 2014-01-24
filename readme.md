@@ -3,10 +3,11 @@ Gram Piano
 
 The Gram Piano is a capacitive touch keyboard and soldering kit that allows you to 
 create and play all the notes of the C major scale and outputs sound through a 
-PCB Speaker. It can also be adapted to have its inputs trigger notes of other 
-scales, octaves or even melodies.
+PCB Speaker. A different octave can be selected with the potentiometer. Pressing
+the on board button will start/stop playing a melody. Feel free to adapt the keys to
+play other notes/scales/melodies or perform tasks as you see fit.
 
-This board was created in Eagle v6.0.5, this firmware was created in Arduino v1.x.
+This board was created in Eagle v6.0.5, this firmware was created in Arduino v1.5.2
 
 Repository Contents
 -------------------
@@ -25,5 +26,5 @@ Version History
 License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
-All other code is open source so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+All code is open source so please feel free to do anything you want with it under the [Beerware license](http://en.wikipedia.org/wiki/Beerware).
 
