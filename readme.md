@@ -1,6 +1,9 @@
 Gram Piano
 ==========
 
+[![Gram Piano Kit](https://cdn.sparkfun.com//assets/parts/8/2/0/0/11835-05.jpg)
+*Gram Piano Kit (KIT-11835)*](https://www.sparkfun.com/products/11835)
+
 The Gram Piano is a capacitive touch keyboard and soldering kit that allows you to 
 create and play all the notes of the C major scale and outputs sound through a 
 PCB Speaker. A different octave can be selected with the potentiometer. Pressing
