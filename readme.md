@@ -1,5 +1,5 @@
 Gram Piano
-==========
+========================================
 
 [![Gram Piano Kit](https://cdn.sparkfun.com//assets/parts/8/2/0/0/11835-05.jpg)](https://www.sparkfun.com/products/11835)<br>
 [*Gram Piano Kit (KIT-11835)*](https://www.sparkfun.com/products/11835)
@@ -18,6 +18,14 @@ Repository Contents
 * **/Firmware** - Firmware the board ships with.
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/Production** - Test bed files and production panel files
+
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/gram-piano-assembly-guide)** - Basic hookup guide for the  Gram Piano.
+
+Product Versions
+----------------
+* [KIT-11835 (RETIRED)](https://www.sparkfun.com/products/11835)
 
 Version History
 ---------------
